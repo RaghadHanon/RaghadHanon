@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghad_Hanon</h1>
 <h3>A passionate software engineer from Palestine</h3>
-<img src="https://cdn.dribbble.com/users/8069464/screenshots/15902600/media/ccb8144c33dfcead63e3cc0eb2d79077.jpg" width="50%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghadhanon&label=Profile%20views&color=0e75b6&style=flat" alt="raghadhanon" /> </p>
 
