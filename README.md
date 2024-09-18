@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1xKlWSP5yL6U8YsVnTGJ6PIKf7wMNZUr-" alt="Presentation Background" />
 
-### <div align="center">I'm Raghad, A passionate software engineer from Palestine👨‍💻</div>  
+### <div align="center">I'm Raghad, A Passionate Software Engineer 👨‍💻</div>  
   
 
 - 🔭 I am currently enrolled in a backend internship at Foothill Solution Technology.  
