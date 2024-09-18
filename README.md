@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1NJdr-xYhCM0TIus7sBzAkqiEZ_w2rhbA" align="center" style="width: 100%" />
-</div>
+<img src="https://drive.google.com/uc?export=view&id=1xKlWSP5yL6U8YsVnTGJ6PIKf7wMNZUr-" alt="Presentation Background" />
 
 ### <div align="center">I'm Raghad, A passionate software engineer from Palestine👨‍💻</div>  
   
