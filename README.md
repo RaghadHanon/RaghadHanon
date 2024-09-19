@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Raghad, A Passionate Software Engineer 👨‍💻</div>  
+### <div align="center">I'm Raghad, A Passionate Computer Systems Engineer 👨‍💻</div>  
   
 
 - 🔭 I am currently enrolled in a backend internship at Foothill Solution Technology.  
