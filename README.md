@@ -1,12 +1,15 @@
 # 👋 Hey, I’m Raghad!
 
 > 🎓 Fifth-year Computer Systems Engineering student trying to *gracefully* survive university while *aggressively* learning backend and frontend development.
+
+> 🧑‍💻 Just wrapped up an awesome backend development internship at **Foothill Solution Technology (FTS)**.
+
 > 🧠 I speak fluent **C#**, whisper to **SQL Server**, and occasionally have deep conversations with **Swagger**.  
 > 💡 Currently on a mission to create a bug-free universe (starting with my own projects… one breakpoint at a time).  
-> 🧑‍💻 Just wrapped up an awesome backend development internship at **Foothill Solution Technology (FTS)**.  
-> 🛠️ Currently digging deeper into backend and frontend wizardry — one API at a time.
-> ⚡ Fun Fact: I’m on a quest to write the most efficient and elegant "Hello, World!" ever written in human history.  
+> 🛠️ Digging deeper into backend and frontend wizardry — one API at a time.
+
 > ☕ Fueled by Nescafé, driven by curiosity, and absolutely committed to debugging my way through the dev world.
+> ⚡ Fun Fact: I’m on a quest to write the most efficient and elegant "Hello, World!" ever written in human history.    
 
 ---
 
