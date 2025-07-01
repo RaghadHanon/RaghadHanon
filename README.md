@@ -2,7 +2,7 @@
 
 > 🎓 Fifth-year Computer Systems Engineering student trying to *gracefully* survive university while *aggressively* learning backend and frontend development.
 
-> 🧑‍💻 Just wrapped up an awesome backend development internship at **Foothill Solution Technology (FTS)**.
+> 🧑‍💻 Just wrapped up an awesome **backend development internship** at **Foothill Solution Technology (FTS)**.
 
 > 🧠 I speak fluent **C#**, whisper to **SQL Server**, and occasionally have deep conversations with **Swagger**.  
 > 💡 Currently on a mission to create a bug-free universe (starting with my own projects… one breakpoint at a time).  
